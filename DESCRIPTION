@@ -9,5 +9,6 @@ Description: More about what it does (maybe more than one line)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-URL: https://github.com/FelicienLL/superpackage
+URL: https://github.com/FelicienLL/superpackage,
+    https://felicienll.github.io/superpackage/
 BugReports: https://github.com/FelicienLL/superpackage/issues
