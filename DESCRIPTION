@@ -12,3 +12,6 @@ LazyData: true
 URL: https://github.com/FelicienLL/superpackage,
     https://felicienll.github.io/superpackage/
 BugReports: https://github.com/FelicienLL/superpackage/issues
+Suggests: 
+    knitr,
+    rmarkdown
